@@ -4,7 +4,7 @@
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Excel+%7C+SQL+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Dashboards+That+Tell+the+Story;Industrial+Chemistry+Graduate;3+Years+of+Teaching+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Excel+%7C+SQL+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Dashboards+That+Tell+the+Story" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
